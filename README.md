@@ -12,4 +12,4 @@ Apps project to build a portfolio of my own
 
 - 📫 How to reach me ...
 You can contact me through mail 
-@jesusg.1301.jg@gmail.com
+jesusg.1301.jg@gmail.com

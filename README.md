@@ -1,129 +1,243 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Nice to meet you, I'm Jesus Gutierrez
+## Hello, folks!
+<h3 align="center">Nice to meet you, I'm Jesus Gutierrez</h3>
+<h4 align="center">A fullstack developer from Venezuela</h4>
 
-## Who Am I? 🤠
+## Who Am I?
+<ul align="left">
+  <li>🤓 Self taught Developer</li>
+  <li>👩‍💻 Working on Web & App Development</li>
+  <li>
+    🌱 I’m currently learning **mobile Development with c# using .DotNetMaui**
+  </li>
+  <li>
+    👯 I’m looking to collaborate on Web and/or mobile Development with ReactJs
+  </li>
+  <li>🎯 Goal : To be a better Developer</li>
+  <li>💬 Ask me about **ReactJS**</li>
+  <li>📫 How to reach me: jesusg.1301.jg@gmail.com</li>
+  <!-- <li>- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)</li>
+    <li>- 📝 Iregularly write articles on [blog link](blog link)</li> -->
+</ul>
 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
-- 🎯 Goal : To be a better Developer 
-- 📫 How to reach me : [jesusg.1301.jg@gmail.com](mailto:jesusg.1301.jg@gmail.com)
-- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
+<br />
 
-<br>
-- 👀 I’m interested in learning about
- developing and creating my own unique 
-solutions to the problems i may encounter 
-on the daily basis
+<br />
 
--  I’m currently learning .. and polishing 
-my javascript skills and knowledge 
+##
+<p align="center">Github Status 🏆</p>
 
-- I’m looking to collaborate on ... web site
-Apps project to build a portfolio of my own
+<img
+  align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=xeuz27&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react"
+  alt="xeuz27"
+  width="25%"
+  height="170px"
+/>
+<img
+  align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react"
+  alt="xeuz27"
+  width="35%"
+  height="170px"
+/>
+<img
+  src="https://github-stats-lemon.vercel.app/api?username=Xeuz27&show_icons=true&hide_border=true&theme=react"
+  width="35%"
+  align="right"
+  height="170px"
+/>
 
-- 📫 How to reach me ...
-You can contact me through mail 
-jesusg.1301.jg@gmail.com
+<p></p>
 
-
-
-
-
-## My Weapons 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidbitsjs&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
-
-<br>
-
-## Other Shields 🛡
-
-<p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
+<h3 align="center">Languages and Tools 🛠️</h3>
+<!-- languages and tools icons -->
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+  <br />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+  <br />
+  <a
+    href="https://dotnet.microsoft.com/apps/xamarin"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
+      alt="xamarin"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
-<br>
-
- 
-## Github Status 🏆
-
-<img  src="https://github-stats-lemon.vercel.app/api?username=tidbitsjs&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
-<br>
-
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
-<br>
+<br />
+<br />
+<br />
 
 <p align="center">Wanna Know me More?</p>
+<p align="center">
+  <a href="https://www.instagram.com/tidbits.js" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Instagram-%23eb13a5"
+      alt="Instagram"
+    />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/jesus-gutierrez-390545272/"
+    target="_blank"
+  >
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-%233781da"
+      alt="LinkedIn"
+    />
+  </a>
+  <!-- <a href="https://Xeuz27.medium.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" />
+    </a> -->
+</p>
+<!-- 
+<p align="center">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=Xeuz27.Xeuz27"
+    alt="Xeuz27 :: Visitor's Count"
+  />
+</p> -->
 
 <p align="center">
- 
-<a href="https://twitter.com/TidbitsJS" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-
-<a href="https://www.instagram.com/tidbits.js" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
-
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-    
-<a href="https://tidbitsjs.medium.com/" target="_blank">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
-
+  <img
+    src="https://komarev.com/ghpvc/?username=xeuz27&label=Profile%20views&color=0e75b6&style=flat"
+    alt="xeuz27"
+  />
 </p>
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeuz27&label=Profile%20views&color=0e75b6&style=flat" alt="xeuz27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xeuz27" alt="xeuz27" /></a> </p>
-
-- 🌱 I’m currently learning **mobile Development with .DotNetMaui**
-
-- 👯 I’m looking to collaborate on **Web and/or mobile Development**
-
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 📝 I regularly write articles on [blog link](blog link)
-
-- 💬 Ask me about **ReactJS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeuz27&show_icons=true&locale=en&layout=compact" alt="xeuz27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeuz27&show_icons=true&locale=en" alt="xeuz27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&" alt="xeuz27" /></p>

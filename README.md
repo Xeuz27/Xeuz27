@@ -206,7 +206,7 @@
 <br />
 <br />
 
-<p align="center">Wanna Know me More?</p>
+<!-- <p align="center">Wanna Know me More?</p>
 <p align="center">
   <a href="https://www.instagram.com/tidbits.js" target="_blank">
     <img
@@ -222,7 +222,7 @@
       src="https://img.shields.io/badge/-LinkedIn-%233781da"
       alt="LinkedIn"
     />
-  </a>
+  </a> -->
   <!-- <a href="https://Xeuz27.medium.com/" target="_blank">
         <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" />
     </a> -->

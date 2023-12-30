@@ -44,10 +44,9 @@
   height="170px"
 />
 
-<p></p>
-
 <hr />
 <h3 align="center">Languages 🛠️</h3>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -84,10 +83,13 @@
       width="40"
       height="40"
   /></a>
+</p>
+  
 <hr />
 
 
 <h3 align="center">Frameworks 🛠️</h3>
+<p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -119,10 +121,12 @@
       height="40"
     />
   </a>
+  </p>
 <!-- languages and tools icons -->
 <hr />
 
 <h3 align="center">Tools 🛠️</h3>
+<p align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -177,7 +181,7 @@
       height="40"
     />
   </a>
-
+</p>
 
 
 

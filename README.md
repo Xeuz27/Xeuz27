@@ -14,7 +14,7 @@
   </li>
   <li>🎯 Goal : To be a better Developer</li>
   <li>💬 Ask me about **ReactJS**</li>
-  <li>📫 How to reach me: jesusg.1301.jg@gmail.com</li>
+  <li>📫 How to reach me: yidev27@gmail.com</li>
   <!-- <li>- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)</li>
     <li>- 📝 Iregularly write articles on [blog link](blog link)</li> -->
 </ul>

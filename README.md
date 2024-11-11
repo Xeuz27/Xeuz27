@@ -1,4 +1,4 @@
-## Hello, folks!
+## Hello, mate!
 <h3 align="center">Nice to meet you, I'm Jesus Gutierrez</h3>
 <h4 align="center">A fullstack developer from Venezuela</h4>
 
@@ -7,15 +7,16 @@
   <li>🤓 Self taught Developer</li>
   <li>👩‍💻 Working on Web & App Development</li>
   <li>
-    🌱 I’m currently learning **mobile Development with c# using .DotNetMaui**
+    🌱 I’m currently working on **Ecommerce websites using AstroJS and/or ReactJS**
   </li>
   <li>
-    👯 I’m looking to collaborate on Web and/or mobile Development with ReactJs
+    👯 I’m looking to collaborate on Web and/or mobile Development with ReactJs and/or AstroJS
   </li>
-  <li>🎯 Goal : To be a better Developer</li>
+  <li>🎯 Goal: Do Something meaningful</li>
   <li>💬 Ask me about **ReactJS**</li>
-  <li>📫 How to reach me: yidev27@gmail.com</li>
-  <!-- <li>- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)</li>
+  <li>📫 How to reach me: Yidev27@gmail.com <a href="mailto:yidev27@gmail.com" target="_blank" rel="noreferrer">Yidev27@gmail.com<a/></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://cv-me-zeta.vercel.app" target="_blank" rel="noreferrer">My Portfolio<a/></li>
+  <!--
     <li>- 📝 Iregularly write articles on [blog link](blog link)</li> -->
 </ul>
 
@@ -98,14 +99,6 @@
       width="40"
       height="40"
   /></a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="astro.build" target="_blank" rel="noreferrer">
     <img
     src="https://astro.build/assets/press/astro-icon-light-gradient.svg"

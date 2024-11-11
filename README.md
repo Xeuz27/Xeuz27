@@ -106,6 +106,14 @@
       height="40"
     />
   </a>
+  <a href="astro.build" target="_blank" rel="noreferrer">
+    <img
+    src="https://astro.build/assets/press/astro-icon-light-gradient.svg"
+    alt="astro logo"
+    width="40"
+    height="40"
+ />
+</a>
   </p>
 <!-- languages and tools icons -->
 <hr />

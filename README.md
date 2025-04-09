@@ -24,22 +24,10 @@
 <hr />
 <p align="center">Github Status 🏆</p>
 
+![xeuz27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeuz27&theme=react&show_icons=true&hide_border=true&layout=compact)
+![xeuz27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&theme=react&hide_border=false)
 <img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=xeuz27&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react"
-  alt="xeuz27"
-  width="25%"
-  height="170px"
-/>
-<img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react"
-  alt="xeuz27"
-  width="35%"
-  height="170px"
-/>
-<img
-  src="https://github-stats-lemon.vercel.app/api?username=Xeuz27&show_icons=true&hide_border=true&theme=react"
+  src="https://github-readme-stats.vercel.app/api?username=xeuz27&theme=react&show_icons=true&hide_border=true&count_private=true"
   width="35%"
   align="right"
   height="170px"

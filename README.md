@@ -14,8 +14,8 @@
   </li>
   <li>🎯 Goal: Do Something meaningful</li>
   <li>💬 Ask me about **ReactJS**</li>
-  <li>📫 How to reach me: Yidev27@gmail.com <a href="mailto:yidev27@gmail.com" target="_blank" rel="noreferrer">Yidev27@gmail.com<a/></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://cv-me-zeta.vercel.app" target="_blank" rel="noreferrer">My Portfolio<a/></li>
+  <li>📫 How to reach me: <a href="mailto:yidev27@gmail.com" target="_blank" rel="noreferrer">Yidev27@gmail.com<a/></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://yidev.vercel.app" target="_blank">My Portfolio<a/></li>
   <!--
     <li>- 📝 Iregularly write articles on [blog link](blog link)</li> -->
 </ul>
@@ -24,14 +24,29 @@
 <hr />
 <p align="center">Github Status 🏆</p>
 
-![xeuz27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeuz27&theme=react&show_icons=true&hide_border=true&layout=compact)
-![xeuz27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&theme=react&hide_border=false)
+
+<!-- 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeuez27)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <img
   src="https://github-readme-stats.vercel.app/api?username=xeuz27&theme=react&show_icons=true&hide_border=true&count_private=true"
-  width="35%"
-  align="right"
-  height="170px"
+  width="49%"
+  height="290px"
 />
+<img
+  src="https://kasroudra-stats-card.onrender.com/lang?user=xeuz27&theme=react&layout=compact&exclude_lang=PHP"
+  width="50%"
+  height="290px"
+/>
+
+<!-- 
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=xeuz27&theme=react&hide_border=false"
+  width="30%"
+  align="center"
+  height="170px"
+/> -->
 
 <hr />
 <h3 align="center">Languages 🛠️</h3>
@@ -147,6 +162,7 @@
       height="40"
     />
   </a>
+  
 </p>
 
 
@@ -184,10 +200,11 @@
     alt="Xeuz27 :: Visitor's Count"
   />
 </p> -->
-
 <p align="center">
+<a href="https://wakatime.com/@018cc068-cff0-432b-b1b3-c1427b263593"><img src="https://wakatime.com/badge/user/018cc068-cff0-432b-b1b3-c1427b263593.svg" alt="Total time coded since Dec 31 2023" /></a>
   <img
     src="https://komarev.com/ghpvc/?username=xeuz27&label=Profile%20views&color=0e75b6&style=flat"
     alt="xeuz27"
   />
 </p>
+ 
